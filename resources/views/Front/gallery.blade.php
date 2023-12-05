@@ -5,7 +5,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Photo Gallery</h2>
+          <!--<h2>Photo Gallery</h2>-->
         </div>
 
         <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
@@ -17,7 +17,7 @@
                 <h4></h4>
                 <p></p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/aplusInd_1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
+                  <a href="assets/img/portfolio/aplusInd_1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title=""><i class="bx bx-plus"></i></a>
                   
                 </div>
               </div>
@@ -31,7 +31,7 @@
                 <h4></h4>
                 <p></p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/aplusInd_2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
+                  <a href="assets/img/portfolio/aplusInd_2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title=""><i class="bx bx-plus"></i></a>
                   
                 </div>
               </div>
@@ -45,7 +45,7 @@
                 <h4></h4>
                 <p></p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/aplusInd_3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
+                  <a href="assets/img/portfolio/aplusInd_3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title=""><i class="bx bx-plus"></i></a>
                   
                 </div>
               </div>
@@ -59,7 +59,7 @@
                 <h4></h4>
                 <p></p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/aplusInd_4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
+                  <a href="assets/img/portfolio/aplusInd_4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title=""><i class="bx bx-plus"></i></a>
                   
                 </div>
               </div>
@@ -73,7 +73,7 @@
                 <h4></h4>
                 <p></p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/aplusInd_5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
+                  <a href="assets/img/portfolio/aplusInd_5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title=""><i class="bx bx-plus"></i></a>
                   
                 </div>
               </div>
@@ -87,7 +87,7 @@
                 <h4></h4>
                 <p></p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/aplusInd_6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 3"><i class="bx bx-plus"></i></a>
+                  <a href="assets/img/portfolio/aplusInd_6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title=""><i class="bx bx-plus"></i></a>
                   
                 </div>
               </div>
@@ -101,7 +101,7 @@
                 <h4></h4>
                 <p></p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/aplusInd_7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 1"><i class="bx bx-plus"></i></a>
+                  <a href="assets/img/portfolio/aplusInd_7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title=""><i class="bx bx-plus"></i></a>
                   
                 </div>
               </div>
@@ -115,7 +115,7 @@
                 <h4></h4>
                 <p></p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/aplusInd_8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 3"><i class="bx bx-plus"></i></a>
+                  <a href="assets/img/portfolio/aplusInd_8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title=""><i class="bx bx-plus"></i></a>
                   
                 </div>
               </div>
@@ -129,7 +129,7 @@
                 <h4></h4>
                 <p></p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/aplusInd_9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
+                  <a href="assets/img/portfolio/aplusInd_9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title=""><i class="bx bx-plus"></i></a>
                   
                 </div>
               </div>

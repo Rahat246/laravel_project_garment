@@ -7,9 +7,9 @@
       <nav id="navbar" class="navbar order-last order-lg-0">
         <ul>
           <li><a  href="{{route('front.frontpage')}}">Home</a></li>
-          <li><a  href="#">About</a></li>
-          <li><a  href="#">CSR</a></li>
-          <li><a  href="#">Our Buyer</a></li>
+          <li><a  href="{{route('front.about')}}">About</a></li>
+          <li><a  href="{{route('front.csr')}}">CSR</a></li>
+          <li><a  href="{{route('front.buyer')}}">Our Buyer</a></li>
           <li><a  href="{{route('front.gallery')}}">Gallery</a></li>
           <li><a  href="{{route('front.audit')}}">Audits & Certificate</a></li>
           <li><a  href="{{route('front.contract')}}">Contact</a></li>

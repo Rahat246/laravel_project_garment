@@ -31,4 +31,20 @@ class frontController extends Controller
         return view('Front.contract');
     }
 
+    public function buyer()
+    {
+        return view('Front.buyer');
+    }
+
+    public function csr()
+    {
+        return view('Front.csr');
+    }
+
+    public function about()
+    {
+        return view('Front.about');
+    }
+
+
 }

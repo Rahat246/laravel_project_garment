@@ -12,12 +12,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/amfori.png" class="img-fluid" alt="">
+              <img src="assets/img/clients/terranova.png" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4></h4>
                 <p></p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/amfori.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title=""><i class="bx bx-plus"></i></a>
+                  <a href="assets/img/clients/terranova.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title=""><i class="bx bx-plus"></i></a>
                   
                 </div>
               </div>
@@ -26,12 +26,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/iso90012015.png" class="img-fluid" alt="">
+              <img src="assets/img/clients/ovs.png" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4></h4>
                 <p></p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/iso90012015.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title=""><i class="bx bx-plus"></i></a>
+                  <a href="assets/img/clients/ovs.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title=""><i class="bx bx-plus"></i></a>
                   
                 </div>
               </div>
@@ -40,12 +40,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/wrap.png" class="img-fluid" alt="">
+              <img src="assets/img/clients/auchan.png" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4></h4>
                 <p></p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/wrap.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title=""><i class="bx bx-plus"></i></a>
+                  <a href="assets/img/clients/auchan.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title=""><i class="bx bx-plus"></i></a>
                   
                 </div>
               </div>
@@ -54,12 +54,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/oekotex.png" class="img-fluid" alt="">
+              <img src="assets/img/clients/kik.png" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4></h4>
                 <p></p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/oekotex.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title=""><i class="bx bx-plus"></i></a>
+                  <a href="assets/img/clients/kik.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title=""><i class="bx bx-plus"></i></a>
                   
                 </div>
               </div>
@@ -68,12 +68,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/sedex.png" class="img-fluid" alt="">
+              <img src="assets/img/clients/piazaitalia.png" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4></h4>
                 <p></p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/sedex.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title=""><i class="bx bx-plus"></i></a>
+                  <a href="assets/img/clients/piazaitalia.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title=""><i class="bx bx-plus"></i></a>
                   
                 </div>
               </div>
@@ -82,12 +82,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/accord.png" class="img-fluid" alt="">
+              <img src="assets/img/clients/lpp.png" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4></h4>
                 <p></p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/accord.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title=""><i class="bx bx-plus"></i></a>
+                  <a href="assets/img/clients/lpp.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title=""><i class="bx bx-plus"></i></a>
                   
                 </div>
               </div>
@@ -96,12 +96,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/usgbcleed.png" class="img-fluid" alt="">
+              <img src="assets/img/clients/nkd.png" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4></h4>
                 <p></p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/usgbcleed.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title=""><i class="bx bx-plus"></i></a>
+                  <a href="assets/img/clients/nkd.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title=""><i class="bx bx-plus"></i></a>
                   
                 </div>
               </div>
@@ -110,12 +110,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/gmp.png" class="img-fluid" alt="">
+              <img src="assets/img/clients/woolworth.png" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4></h4>
                 <p></p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/gmp.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title=""><i class="bx bx-plus"></i></a>
+                  <a href="assets/img/clients/woolworth.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title=""><i class="bx bx-plus"></i></a>
                   
                 </div>
               </div>
@@ -124,12 +124,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/sqp.png" class="img-fluid" alt="">
+              <img src="assets/img/clients/smyk.png" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4></h4>
                 <p></p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/sqp.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title=""><i class="bx bx-plus"></i></a>
+                  <a href="assets/img/clients/smyk.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title=""><i class="bx bx-plus"></i></a>
                   
                 </div>
               </div>
@@ -138,12 +138,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/auchan.png" class="img-fluid" alt="">
+              <img src="assets/img/clients/pepco.png" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4></h4>
                 <p></p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/auchan.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title=""><i class="bx bx-plus"></i></a>
+                  <a href="assets/img/clients/pepco.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title=""><i class="bx bx-plus"></i></a>
                   
                 </div>
               </div>
@@ -152,12 +152,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/lpp.png" class="img-fluid" alt="">
+              <img src="assets/img/clients/stokomani.png" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4></h4>
                 <p></p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/lpp.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title=""><i class="bx bx-plus"></i></a>
+                  <a href="assets/img/clients/stokomani.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title=""><i class="bx bx-plus"></i></a>
                   
                 </div>
               </div>
@@ -166,12 +166,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/walmart.png" class="img-fluid" alt="">
+              <img src="assets/img/clients/wibra.png" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4></h4>
                 <p></p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/walmart.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title=""><i class="bx bx-plus"></i></a>
+                  <a href="assets/img/clients/wibra.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title=""><i class="bx bx-plus"></i></a>
                   
                 </div>
               </div>
@@ -180,17 +180,61 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/pepco.png" class="img-fluid" alt="">
+              <img src="assets/img/clients/george.png" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4></h4>
                 <p></p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/pepco.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title=""><i class="bx bx-plus"></i></a>
+                  <a href="assets/img/clients/george.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title=""><i class="bx bx-plus"></i></a>
                   
                 </div>
               </div>
             </div>
           </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/clients/norma.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4></h4>
+                <p></p>
+                <div class="portfolio-links">
+                  <a href="assets/img/clients/norma.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title=""><i class="bx bx-plus"></i></a>
+                  
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/clients/costco.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4></h4>
+                <p></p>
+                <div class="portfolio-links">
+                  <a href="assets/img/clients/costco.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title=""><i class="bx bx-plus"></i></a>
+                  
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/clients/tailorvintage.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4></h4>
+                <p></p>
+                <div class="portfolio-links">
+                  <a href="assets/img/clients/tailorvintage.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title=""><i class="bx bx-plus"></i></a>
+                  
+                </div>
+              </div>
+            </div>
+          </div>
+
+          
 
           
 
