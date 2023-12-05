@@ -19,7 +19,7 @@
       </div>
 
       <div class="col-lg-2 col-md-6 footer-links">
-        <h4></h4>
+        <!--<h4></h4>-->
         <ul>
           <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
           <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
@@ -29,7 +29,7 @@
       </div>
 
       <div class="col-lg-3 col-md-6 footer-links">
-        <h4></h4>
+        <!--<h4></h4>-->
         <ul>
           <li><i class="bx bx-chevron-right"></i> <a href="#">Gallery</a></li>
           <li><i class="bx bx-chevron-right"></i> <a href="#">Audits & Certificate</a></li>

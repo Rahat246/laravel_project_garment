@@ -21,8 +21,14 @@ class frontController extends Controller
         return view('Front.gallery');
     }
 
-    public function certificate()
+    public function audit()
     {
-        return view(Front.certificate);
+        return view('Front.audit');
     }
+
+    public function contract()
+    {
+        return view('Front.contract');
+    }
+
 }

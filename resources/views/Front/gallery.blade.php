@@ -1,48 +1,144 @@
 @extends('Front.master')
 @section('contents')
 <!-- Gallery -->
-<div class="row">
-  <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">
-    <img
-      src="https://mdbcdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(73).webp"
-      class="w-100 shadow-1-strong rounded mb-4"
-      alt="Boat on Calm Water"
-    />
+ <section id="portfolio" class="portfolio">
+      <div class="container" data-aos="fade-up">
 
-    <img
-      src="https://mdbcdn.b-cdn.net/img/Photos/Vertical/mountain1.webp"
-      class="w-100 shadow-1-strong rounded mb-4"
-      alt="Wintry Mountain Landscape"
-    />
-  </div>
+        <div class="section-title">
+          <h2>Photo Gallery</h2>
+        </div>
 
-  <div class="col-lg-4 mb-4 mb-lg-0">
-    <img
-      src="https://mdbcdn.b-cdn.net/img/Photos/Vertical/mountain2.webp"
-      class="w-100 shadow-1-strong rounded mb-4"
-      alt="Mountains in the Clouds"
-    />
+        <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
 
-    <img
-      src="https://mdbcdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(73).webp"
-      class="w-100 shadow-1-strong rounded mb-4"
-      alt="Boat on Calm Water"
-    />
-  </div>
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/aplusInd_1.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4></h4>
+                <p></p>
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/aplusInd_1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
+                  
+                </div>
+              </div>
+            </div>
+          </div>
 
-  <div class="col-lg-4 mb-4 mb-lg-0">
-    <img
-      src="https://mdbcdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(18).webp"
-      class="w-100 shadow-1-strong rounded mb-4"
-      alt="Waves at Sea"
-    />
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/aplusInd_2.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4></h4>
+                <p></p>
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/aplusInd_2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
+                  
+                </div>
+              </div>
+            </div>
+          </div>
 
-    <img
-      src="https://mdbcdn.b-cdn.net/img/Photos/Vertical/mountain3.webp"
-      class="w-100 shadow-1-strong rounded mb-4"
-      alt="Yosemite National Park"
-    />
-  </div>
-</div>
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/aplusInd_3.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4></h4>
+                <p></p>
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/aplusInd_3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
+                  
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/aplusInd_4.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4></h4>
+                <p></p>
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/aplusInd_4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
+                  
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/aplusInd_5.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4></h4>
+                <p></p>
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/aplusInd_5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
+                  
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/aplusInd_6.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4></h4>
+                <p></p>
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/aplusInd_6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 3"><i class="bx bx-plus"></i></a>
+                  
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/aplusInd_7.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4></h4>
+                <p></p>
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/aplusInd_7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 1"><i class="bx bx-plus"></i></a>
+                  
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/aplusInd_8.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4></h4>
+                <p></p>
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/aplusInd_8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 3"><i class="bx bx-plus"></i></a>
+                  
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/aplusInd_9.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4></h4>
+                <p></p>
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/aplusInd_9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
+                  
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section>
 <!-- Gallery -->
 @endsection

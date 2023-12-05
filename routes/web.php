@@ -18,4 +18,5 @@ use App\Http\Controllers\frontController;
 Route::get('/front-master',[frontController::class,'master']);
 Route::get('/',[frontController::class,'frontpage'])->name('front.frontpage');
 Route::get('/front-gallery',[frontController::class,'gallery'])->name('front.gallery');
-Route::get('/front-certicate',[frontController::class,'gallery'])->name('front.certificate');
+Route::get('/front-audit',[frontController::class,'audit'])->name('front.audit');
+Route::get('/front-contract',[frontController::class,'contract'])->name('front.contract');

@@ -6,13 +6,13 @@
 
       <nav id="navbar" class="navbar order-last order-lg-0">
         <ul>
-          <li><a  href="#">Home</a></li>
+          <li><a  href="{{route('front.frontpage')}}">Home</a></li>
           <li><a  href="#">About</a></li>
           <li><a  href="#">CSR</a></li>
           <li><a  href="#">Our Buyer</a></li>
           <li><a  href="{{route('front.gallery')}}">Gallery</a></li>
-          <li><a  href="{{route('front.certificate')}}">Audits & Certificate</a></li>
-          <li><a  href="">Contact</a></li>
+          <li><a  href="{{route('front.audit')}}">Audits & Certificate</a></li>
+          <li><a  href="{{route('front.contract')}}">Contact</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
