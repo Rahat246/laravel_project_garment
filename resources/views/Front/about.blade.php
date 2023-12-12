@@ -20,7 +20,6 @@
                         <ul>
                         <li><i class="ri-check-double-line"></i> Working hours do not exceed 60 hrs. Per week including overtime and it is strictly voluntary. There will be a day off in a week.</li>
                         <li><i class="ri-check-double-line"></i> On wages and benefits, we pay at least the minimum wage (Taka 3,000 ) or the prevailing industry wage whichever is higher. We pay our workers 40% of basic salary for housing; Medical expenses; and Attendance Bonuses. The wages of trainees are in accordance with applicable law. Any deductions from the wages shall be strictly in accordance with the law. Law mandates our overtime wages and is double of ordinary rate of wages.</li>
-                        
                         </ul>
                         
                     </div>
